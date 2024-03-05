@@ -1,0 +1,14 @@
+# Ignore temporary files
+*.tmp
+*.temp
+
+.DS_Store
+
+# Ignore IDE-specific files
+.idea/*
+
+# Ignore log files
+*.log
+
+# Ignore generated files
+__pycache__
